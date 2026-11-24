@@ -26,3 +26,6 @@ El archivo `recommendation_system.py` implementa un sistema de recomendacion sim
 
 ## Conclusion
 GitHub Copilot facilita la generacion de codigo inicial, acelera el desarrollo y ayuda a comprender la estructura de un proyecto de IA.
+
+Nota para el profesor: Trabajé directo en GitHub usando la opción Commit changes, que realiza automáticamente el git add, commit y push. Por eso mi repositorio ya tiene los archivos guardados y los commits visibles en el historial.
+
