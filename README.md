@@ -18,10 +18,11 @@ Explorar las tendencias emergentes en IA utilizando GitHub Copilot como herramie
 El archivo `recommendation_system.py` implementa un sistema de recomendacion simple usando K-Nearest Neighbors (KNN) de scikit-learn. Carga datos, los divide en entrenamiento y prueba, entrena el modelo, evalua su precision y permite recomendar un producto segun sus caracteristicas.
 
 ## Capturas de pantalla
-- Creacion de la cuenta de GitHub
-- Activacion de GitHub Copilot
-- Creacion del repositorio AI_Project
-- Creacion del archivo recommendation_system.py
+<img width="1307" height="625" alt="image" src="https://github.com/user-attachments/assets/eb75f415-e360-4bd4-a089-f2e919b098f5" />
+<img width="1296" height="661" alt="image" src="https://github.com/user-attachments/assets/ead2f81e-c2b7-45dd-afb4-71b836d60203" />
+
+
+
 
 ## Conclusion
 GitHub Copilot facilita la generacion de codigo inicial, acelera el desarrollo y ayuda a comprender la estructura de un proyecto de IA.
